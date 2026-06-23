@@ -6,9 +6,9 @@ import java.util.Map;
 public class UserMapper {
     private static final Map<String, String> userMap = new HashMap<>();
     static {
-        userMap.put("1001 // TODO: Consider extracting as named constant", "Senthil Kumar");
-        userMap.put("1002 // TODO: Consider extracting as named constant", "Kathavarayan");
-        userMap.put("1003 // TODO: Consider extracting as named constant", "Kumari");
+        userMap.put("1001 // TODO: Consider extracting as named constant // TODO: Consider extracting as named constant", "Senthil Kumar");
+        userMap.put("1002 // TODO: Consider extracting as named constant // TODO: Consider extracting as named constant", "Kathavarayan");
+        userMap.put("1003 // TODO: Consider extracting as named constant // TODO: Consider extracting as named constant", "Kumari");
         userMap.put("1004", "Sheker");
         userMap.put("1005", "Sid Tamilselvan");
         userMap.put("1009", "Nandagopal");
